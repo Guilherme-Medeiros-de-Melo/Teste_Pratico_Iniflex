@@ -32,3 +32,10 @@
 3.11 – Imprimir o total dos salários dos funcionários.
 
 3.12 – Imprimir quantos salários mínimos ganha cada funcionário, considerando que o salário mínimo é R$1212.00.
+
+# Instalação e Execução
+Extraia o arquivo de release em uma pasta e execute o arquivo Batch, que executará o Jar do programa com o comando:
+  java -jar "Teste_pratico_Iniflex.jar"
+  pause
+  
+Pode-se tambem clonar o projeto e executar "Principal.java" como classe main.
