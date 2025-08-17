@@ -38,4 +38,4 @@ Extraia o arquivo de release em uma pasta e execute o arquivo Batch, que executa
   java -jar "Teste_pratico_Iniflex.jar"
   pause
   
-Pode-se tambem clonar o projeto e executar "Principal.java" como classe main.
+Pode-se tambem clonar o projeto e executar "Principal.java" como classe main em seu IDE, recomendo Eclipse.
